@@ -1,10 +1,15 @@
-### Hi there 👋
+# Hulecom GitHub
+
+Welcome to my GitHub repository! This is where I develop work-related and personal projects.
+
+## Work Topics
+I am working on satellite gravimetry using GRACE and GRACE Follow-On products. As a geodetic nerd, gravimetry goes hand in hand with geodetic reference frames and positioning in my book 😎 !
+
+During my PhD at Strasbourg, I contributed to the [Gravity Toolkit](https://github.com/tsutterley/gravity-toolkit) repository.
+
+I am currently preparing a new Python library at LEGOS that uses xarray to perform similar tasks. Stay tuned for updates !
 
 <!--
-**hulecom/hulecom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

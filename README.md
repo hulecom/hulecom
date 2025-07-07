@@ -5,9 +5,7 @@ Welcome to my GitHub repository! This is where I develop work-related and person
 ## Work Topics
 I am working on satellite gravimetry using GRACE and GRACE Follow-On products. As a geodetic nerd, gravimetry goes hand in hand with geodetic reference frames and positioning in my book 😎 !
 
-During my PhD at Strasbourg, I contributed to the [Gravity Toolkit](https://github.com/tsutterley/gravity-toolkit) repository.
-
-I am currently preparing a new Python library at LEGOS that uses xarray to perform similar tasks. Stay tuned for updates !
+I have developped a new Python librairy for gravity-field operations LEGOS that uses xarray to perform similar tasks. See [Lenapy](https://www.github.com/CNES/Lenapy) !
 
 <!--
 - 🔭 I’m currently working on ...
